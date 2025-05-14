@@ -6,7 +6,7 @@
 // @match        *://www.youtube.com/*
 // @grant        none
 // @run-at       document-idle
-// @updateURL
+// @updateURL    https://github.com/stray-tori/utilities/raw/refs/heads/main/tampermonkey_yt_timestamps.user.js
 // ==/UserScript==
 
 (function() {
