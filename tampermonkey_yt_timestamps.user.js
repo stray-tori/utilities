@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         YouTube Insert Timestamp Buttons (PC)
-// @version      1.1
+// @version      1.2
 // @description  Adds 3 Buttons to insert Timestamp into Comment to the Comment Footer. The Buttons are "current timestamp", -5s and -10s
 // @author       stray-tori
 // @match        *://www.youtube.com/*
