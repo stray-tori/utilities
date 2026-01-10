@@ -299,6 +299,7 @@
     
                         }
 
+                        // TODO this only works on reload :(
                         const settings_div = node.querySelectorAll(".general-settings");
 
                         if (settings_div.length) {
